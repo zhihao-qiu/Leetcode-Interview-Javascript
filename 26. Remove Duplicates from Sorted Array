@@ -1,0 +1,18 @@
+/**
+ * @param {number[]} nums
+ * @return {number}
+ */
+var removeDuplicates = function(nums) {
+  nums.sort((a, b) => { a - b; });
+  let i = 0;
+  let prev_num = null;
+  while (i < nums.length) {
+    if (prev_num != null && prev_num == nums[i]) {
+      nums.splice(i, 1);
+    } else {
+      prev_num = nums[i];
+      i++;
+    }
+  }
+  return nums.length;
+};
