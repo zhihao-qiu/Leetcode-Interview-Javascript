@@ -7,6 +7,6 @@ Interview Questions 150 on Leetcode
 - [X] 88. Merge Sorted Array (Easy)
 - [X] 169. Majority Element (Easy)
 - [X] 189. Rotate Array (Medium)
-- [ ] 121. Best Time to Buy and Sell Stock (Easy)
+- [X] 121. Best Time to Buy and Sell Stock (Easy)
 - [ ] 122. Best Time to Buy and Sell Stock II (Medium)
 - [ ] 55. Jump Game (Medium
