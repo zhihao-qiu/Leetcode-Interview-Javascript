@@ -9,4 +9,5 @@ Interview Questions 150 on Leetcode
 - [X] 189. Rotate Array (Medium)
 - [X] 121. Best Time to Buy and Sell Stock (Easy)
 - [X] 122. Best Time to Buy and Sell Stock II (Medium)
-- [X] 55. Jump Game (Medium
+- [X] 55. Jump Game (Medium)
+- [X] 45. Jump Game II (Medium)
