@@ -15,7 +15,7 @@ Interview Questions 150 on Leetcode
 - [X] ![Static Badge](https://img.shields.io/badge/Medium-:badgeContent?color=gold) 274. H-Index (Medium)
 ### July 24, 2023
 - [X] ![Static Badge](https://img.shields.io/badge/Medium-:badgeContent?color=gold) 380. Insert Delete GetRandom O(1) (Medium)
-- [ ] ![Static Badge](https://img.shields.io/badge/Medium-:badgeContent?color=gold) 238. Product of Array Except Self (Medium)
+- [X] ![Static Badge](https://img.shields.io/badge/Medium-:badgeContent?color=gold) 238. Product of Array Except Self (Medium)
 - [ ] ![Static Badge](https://img.shields.io/badge/Medium-:badgeContent?color=gold) 134. Gas Station (Medium)
 - [ ] ![Static Badge](https://img.shields.io/badge/Hard-:badgeContent?color=red) 135. Candy (Hard)
 - [ ] ![Static Badge](https://img.shields.io/badge/Hard-:badgeContent?color=red) 42. Trapping Rain Water (Hard)
