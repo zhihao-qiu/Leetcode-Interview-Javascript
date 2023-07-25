@@ -19,7 +19,7 @@ Interview Questions 150 on Leetcode
 - [X] ![Static Badge](https://img.shields.io/badge/Medium-:badgeContent?color=gold) 134. Gas Station (Medium)
 - [X] ![Static Badge](https://img.shields.io/badge/Hard-:badgeContent?color=red) 135. Candy (Hard)
 ### July 25,2023
-- [ ] ![Static Badge](https://img.shields.io/badge/Hard-:badgeContent?color=red) 42. Trapping Rain Water (Hard)
+- [X] ![Static Badge](https://img.shields.io/badge/Hard-:badgeContent?color=red) 42. Trapping Rain Water (Hard)
 - [ ] ![Static Badge](https://img.shields.io/badge/Easy-:badgeContent?color=green) 13. Roman to Integer (Easy)
 - [ ] ![Static Badge](https://img.shields.io/badge/Medium-:badgeContent?color=gold) 12. Integer to Roman (Medium)
 - [ ] ![Static Badge](https://img.shields.io/badge/Easy-:badgeContent?color=green) 58. Length of Last Word (Easy)
