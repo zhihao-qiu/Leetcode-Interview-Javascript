@@ -21,9 +21,9 @@ Interview Questions 150 on Leetcode
 ### July 25,2023
 - [X] ![Static Badge](https://img.shields.io/badge/Hard-:badgeContent?color=red) 42. Trapping Rain Water (Hard)
 - [X] ![Static Badge](https://img.shields.io/badge/Easy-:badgeContent?color=green) 13. Roman to Integer (Easy)
-- [ ] ![Static Badge](https://img.shields.io/badge/Medium-:badgeContent?color=gold) 12. Integer to Roman (Medium)
-- [ ] ![Static Badge](https://img.shields.io/badge/Easy-:badgeContent?color=green) 58. Length of Last Word (Easy)
-- [ ] ![Static Badge](https://img.shields.io/badge/Easy-:badgeContent?color=green) 14. Longest Common Prefix (Easy)
+- [X] ![Static Badge](https://img.shields.io/badge/Medium-:badgeContent?color=gold) 12. Integer to Roman (Medium)
+- [X] ![Static Badge](https://img.shields.io/badge/Easy-:badgeContent?color=green) 58. Length of Last Word (Easy)
+- [X] ![Static Badge](https://img.shields.io/badge/Easy-:badgeContent?color=green) 14. Longest Common Prefix (Easy)
 - [ ] ![Static Badge](https://img.shields.io/badge/Medium-:badgeContent?color=gold) 151. Reverse Words in a String (Medium)
 - [ ] ![Static Badge](https://img.shields.io/badge/Medium-:badgeContent?color=gold) 6. Zigzag Conversion (Medium)
 - [ ] ![Static Badge](https://img.shields.io/badge/Easy-:badgeContent?color=green) 28. Find the Index of the First Occurrence in a String (Easy)
