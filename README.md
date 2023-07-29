@@ -26,6 +26,8 @@ Interview Questions 150 on Leetcode
 - [X] ![Static Badge](https://img.shields.io/badge/Easy-:badgeContent?color=green) 14. Longest Common Prefix (Easy)
 - [X] ![Static Badge](https://img.shields.io/badge/Medium-:badgeContent?color=gold) 151. Reverse Words in a String (Medium)
 ### July 28, 2023
+- [X] ![Static Badge](https://img.shields.io/badge/Medium-:badgeContent?color=gold) 6. Zigzag Conversion (Medium)
+### July 29, 2023
 - [X] ![Static Badge](https://img.shields.io/badge/Easy-:badgeContent?color=green) 28. Find the Index of the First Occurrence in a String (Easy)
 - [ ] ![Static Badge](https://img.shields.io/badge/Hard-:badgeContent?color=red) 68. Text Justification (Hard)
 - [ ] ![Static Badge](https://img.shields.io/badge/Easy-:badgeContent?color=green) 125. Valid Palindrome (Easy)
