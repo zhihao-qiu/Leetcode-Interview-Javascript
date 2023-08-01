@@ -32,7 +32,7 @@ Interview Questions 150 on Leetcode
 ### July 31, 2023
 - [X] ![Static Badge](https://img.shields.io/badge/Hard-:badgeContent?color=red) 68. Text Justification (Hard)
 - [X] ![Static Badge](https://img.shields.io/badge/Easy-:badgeContent?color=green) 125. Valid Palindrome (Easy)
-- [ ] ![Static Badge](https://img.shields.io/badge/Easy-:badgeContent?color=green) 392. Is Subsequence (Easy)
+- [X] ![Static Badge](https://img.shields.io/badge/Easy-:badgeContent?color=green) 392. Is Subsequence (Easy)
 - [ ] ![Static Badge](https://img.shields.io/badge/Medium-:badgeContent?color=gold) 167. Two Sum II - Input Array Is Sorted (Medium)
 - [ ] ![Static Badge](https://img.shields.io/badge/Medium-:badgeContent?color=gold) 11. Container With Most Water (Medium)
 - [ ] ![Static Badge](https://img.shields.io/badge/Medium-:badgeContent?color=gold) 15. 3Sum (Medium)
