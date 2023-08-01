@@ -29,8 +29,9 @@ Interview Questions 150 on Leetcode
 - [X] ![Static Badge](https://img.shields.io/badge/Medium-:badgeContent?color=gold) 6. Zigzag Conversion (Medium)
 ### July 29, 2023
 - [X] ![Static Badge](https://img.shields.io/badge/Easy-:badgeContent?color=green) 28. Find the Index of the First Occurrence in a String (Easy)
-- [ ] ![Static Badge](https://img.shields.io/badge/Hard-:badgeContent?color=red) 68. Text Justification (Hard)
-- [ ] ![Static Badge](https://img.shields.io/badge/Easy-:badgeContent?color=green) 125. Valid Palindrome (Easy)
+### July 31, 2023
+- [X] ![Static Badge](https://img.shields.io/badge/Hard-:badgeContent?color=red) 68. Text Justification (Hard)
+- [X] ![Static Badge](https://img.shields.io/badge/Easy-:badgeContent?color=green) 125. Valid Palindrome (Easy)
 - [ ] ![Static Badge](https://img.shields.io/badge/Easy-:badgeContent?color=green) 392. Is Subsequence (Easy)
 - [ ] ![Static Badge](https://img.shields.io/badge/Medium-:badgeContent?color=gold) 167. Two Sum II - Input Array Is Sorted (Medium)
 - [ ] ![Static Badge](https://img.shields.io/badge/Medium-:badgeContent?color=gold) 11. Container With Most Water (Medium)
