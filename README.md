@@ -39,7 +39,7 @@ Interview Questions 150 on Leetcode
 - [X] ![Static Badge](https://img.shields.io/badge/Medium-:badgeContent?color=gold) 15. 3Sum (Medium)
 ### August 2, 2023
 - [X] ![Static Badge](https://img.shields.io/badge/Medium-:badgeContent?color=gold) 209. Minimum Size Subarray Sum (Medium)
-- [ ] ![Static Badge](https://img.shields.io/badge/Medium-:badgeContent?color=gold) 3. Longest Substring Without Repeating Characters (Medium)
+- [X] ![Static Badge](https://img.shields.io/badge/Medium-:badgeContent?color=gold) 3. Longest Substring Without Repeating Characters (Medium)
 - [ ] ![Static Badge](https://img.shields.io/badge/Hard-:badgeContent?color=red) 30. Substring with Concatenation of All Words (Hard)
 - [ ] ![Static Badge](https://img.shields.io/badge/Hard-:badgeContent?color=red) 76. Minimum Window Substring (Hard)
 - [ ] ![Static Badge](https://img.shields.io/badge/Medium-:badgeContent?color=gold) 36. Valid Sudoku (Medium)
