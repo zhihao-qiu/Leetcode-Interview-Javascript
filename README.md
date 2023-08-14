@@ -43,7 +43,8 @@ Interview Questions 150 on Leetcode
 - [X] ![Static Badge](https://img.shields.io/badge/Hard-:badgeContent?color=red) 30. Substring with Concatenation of All Words (Hard)
 ### August 13, 2023
 - [X] ![Static Badge](https://img.shields.io/badge/Hard-:badgeContent?color=red) 76. Minimum Window Substring (Hard)
-- [ ] ![Static Badge](https://img.shields.io/badge/Medium-:badgeContent?color=gold) 36. Valid Sudoku (Medium)
+### August 14, 2023
+- [X] ![Static Badge](https://img.shields.io/badge/Medium-:badgeContent?color=gold) 36. Valid Sudoku (Medium)
 - [ ] ![Static Badge](https://img.shields.io/badge/Medium-:badgeContent?color=gold) 54. Spiral Matrix (Medium)
 - [ ] ![Static Badge](https://img.shields.io/badge/Medium-:badgeContent?color=gold) 48. Rotate Image (Medium)
 - [ ] ![Static Badge](https://img.shields.io/badge/Medium-:badgeContent?color=gold) 73. Set Matrix Zeroes (Medium)
