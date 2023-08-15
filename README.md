@@ -1,7 +1,7 @@
 # Leetcode-Interview-Javascript
 Interview Questions 150 on Leetcode
 ### July 21, 2023
-- [X] ![Static Badge](https://img.shields.io/badge/Easy-:badgeContent?color=green) 26. Remove Duplicates from Sorted Array 
+- [X] ![Static Badge](https://img.shields.io/badge/Easy-:badgeContent?color=green) 26. Remove Duplicates from Sorted Array
 - [X] ![Static Badge](https://img.shields.io/badge/Easy-:badgeContent?color=green) 27. Remove Element (Easy)
 - [X] ![Static Badge](https://img.shields.io/badge/Medium-:badgeContent?color=gold) 80. Remove Duplicates from Sorted Array II (Medium)
 - [X] ![Static Badge](https://img.shields.io/badge/Easy-:badgeContent?color=green) 88. Merge Sorted Array (Easy)
@@ -48,7 +48,7 @@ Interview Questions 150 on Leetcode
 ### August 15, 2023
 - [X] ![Static Badge](https://img.shields.io/badge/Medium-:badgeContent?color=gold) 54. Spiral Matrix (Medium)
 - [X] ![Static Badge](https://img.shields.io/badge/Medium-:badgeContent?color=gold) 48. Rotate Image (Medium)
-- [ ] ![Static Badge](https://img.shields.io/badge/Medium-:badgeContent?color=gold) 73. Set Matrix Zeroes (Medium)
+- [X] ![Static Badge](https://img.shields.io/badge/Medium-:badgeContent?color=gold) 73. Set Matrix Zeroes (Medium)
 - [ ] ![Static Badge](https://img.shields.io/badge/Medium-:badgeContent?color=gold) 289. Game of Life (Medium)
 - [ ] ![Static Badge](https://img.shields.io/badge/Easy-:badgeContent?color=green) 383. Ransom Note (Easy)
 - [ ] ![Static Badge](https://img.shields.io/badge/Easy-:badgeContent?color=green) 205. Isomorphic Strings (Easy)
