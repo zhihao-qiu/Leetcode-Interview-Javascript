@@ -49,7 +49,7 @@ Interview Questions 150 on Leetcode
 - [X] ![Static Badge](https://img.shields.io/badge/Medium-:badgeContent?color=gold) 54. Spiral Matrix (Medium)
 - [X] ![Static Badge](https://img.shields.io/badge/Medium-:badgeContent?color=gold) 48. Rotate Image (Medium)
 - [X] ![Static Badge](https://img.shields.io/badge/Medium-:badgeContent?color=gold) 73. Set Matrix Zeroes (Medium)
-- [ ] ![Static Badge](https://img.shields.io/badge/Medium-:badgeContent?color=gold) 289. Game of Life (Medium)
+- [X] ![Static Badge](https://img.shields.io/badge/Medium-:badgeContent?color=gold) 289. Game of Life (Medium)
 - [ ] ![Static Badge](https://img.shields.io/badge/Easy-:badgeContent?color=green) 383. Ransom Note (Easy)
 - [ ] ![Static Badge](https://img.shields.io/badge/Easy-:badgeContent?color=green) 205. Isomorphic Strings (Easy)
 - [ ] ![Static Badge](https://img.shields.io/badge/Easy-:badgeContent?color=green) 290. Word Pattern (Easy)
