@@ -47,7 +47,7 @@ Interview Questions 150 on Leetcode
 - [X] ![Static Badge](https://img.shields.io/badge/Medium-:badgeContent?color=gold) 36. Valid Sudoku (Medium)
 ### August 15, 2023
 - [X] ![Static Badge](https://img.shields.io/badge/Medium-:badgeContent?color=gold) 54. Spiral Matrix (Medium)
-- [ ] ![Static Badge](https://img.shields.io/badge/Medium-:badgeContent?color=gold) 48. Rotate Image (Medium)
+- [X] ![Static Badge](https://img.shields.io/badge/Medium-:badgeContent?color=gold) 48. Rotate Image (Medium)
 - [ ] ![Static Badge](https://img.shields.io/badge/Medium-:badgeContent?color=gold) 73. Set Matrix Zeroes (Medium)
 - [ ] ![Static Badge](https://img.shields.io/badge/Medium-:badgeContent?color=gold) 289. Game of Life (Medium)
 - [ ] ![Static Badge](https://img.shields.io/badge/Easy-:badgeContent?color=green) 383. Ransom Note (Easy)
