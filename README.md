@@ -45,7 +45,8 @@ Interview Questions 150 on Leetcode
 - [X] ![Static Badge](https://img.shields.io/badge/Hard-:badgeContent?color=red) 76. Minimum Window Substring (Hard)
 ### August 14, 2023
 - [X] ![Static Badge](https://img.shields.io/badge/Medium-:badgeContent?color=gold) 36. Valid Sudoku (Medium)
-- [ ] ![Static Badge](https://img.shields.io/badge/Medium-:badgeContent?color=gold) 54. Spiral Matrix (Medium)
+### August 15, 2023
+- [X] ![Static Badge](https://img.shields.io/badge/Medium-:badgeContent?color=gold) 54. Spiral Matrix (Medium)
 - [ ] ![Static Badge](https://img.shields.io/badge/Medium-:badgeContent?color=gold) 48. Rotate Image (Medium)
 - [ ] ![Static Badge](https://img.shields.io/badge/Medium-:badgeContent?color=gold) 73. Set Matrix Zeroes (Medium)
 - [ ] ![Static Badge](https://img.shields.io/badge/Medium-:badgeContent?color=gold) 289. Game of Life (Medium)
