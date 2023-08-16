@@ -54,7 +54,8 @@ Interview Questions 150 on Leetcode
 - [X] ![Static Badge](https://img.shields.io/badge/Easy-:badgeContent?color=green) 205. Isomorphic Strings (Easy)
 - [X] ![Static Badge](https://img.shields.io/badge/Easy-:badgeContent?color=green) 290. Word Pattern (Easy)
 - [X] ![Static Badge](https://img.shields.io/badge/Easy-:badgeContent?color=green) 242. Valid Anagram (Easy)
-- [ ] ![Static Badge](https://img.shields.io/badge/Medium-:badgeContent?color=gold)49. Group Anagrams (Medium)
+### August 16, 2023
+- [X] ![Static Badge](https://img.shields.io/badge/Medium-:badgeContent?color=gold)49. Group Anagrams (Medium)
 - [ ] ![Static Badge](https://img.shields.io/badge/Easy-:badgeContent?color=green) 1. Two Sum (Easy)
 - [ ] ![Static Badge](https://img.shields.io/badge/Easy-:badgeContent?color=green) 202. Happy Number (Easy)
 - [ ] ![Static Badge](https://img.shields.io/badge/Easy-:badgeContent?color=green) 219. Contains Duplicate II (Easy)
