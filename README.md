@@ -51,7 +51,7 @@ Interview Questions 150 on Leetcode
 - [X] ![Static Badge](https://img.shields.io/badge/Medium-:badgeContent?color=gold) 73. Set Matrix Zeroes (Medium)
 - [X] ![Static Badge](https://img.shields.io/badge/Medium-:badgeContent?color=gold) 289. Game of Life (Medium)
 - [X] ![Static Badge](https://img.shields.io/badge/Easy-:badgeContent?color=green) 383. Ransom Note (Easy)
-- [ ] ![Static Badge](https://img.shields.io/badge/Easy-:badgeContent?color=green) 205. Isomorphic Strings (Easy)
+- [X] ![Static Badge](https://img.shields.io/badge/Easy-:badgeContent?color=green) 205. Isomorphic Strings (Easy)
 - [ ] ![Static Badge](https://img.shields.io/badge/Easy-:badgeContent?color=green) 290. Word Pattern (Easy)
 - [ ] ![Static Badge](https://img.shields.io/badge/Easy-:badgeContent?color=green) 242. Valid Anagram (Easy)
 - [ ] ![Static Badge](https://img.shields.io/badge/Medium-:badgeContent?color=gold)49. Group Anagrams (Medium)
