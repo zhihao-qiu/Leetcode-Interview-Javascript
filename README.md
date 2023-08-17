@@ -59,5 +59,5 @@ Interview Questions 150 on Leetcode
 - [X] ![Static Badge](https://img.shields.io/badge/Easy-:badgeContent?color=green) 1. Two Sum (Easy)
 - [X] ![Static Badge](https://img.shields.io/badge/Easy-:badgeContent?color=green) 202. Happy Number (Easy)
 - [X] ![Static Badge](https://img.shields.io/badge/Easy-:badgeContent?color=green) 219. Contains Duplicate II (Easy)
-- [ ] ![Static Badge](https://img.shields.io/badge/Medium-:badgeContent?color=gold)128. Longest Consecutive Sequence (Medium)
-- [ ] ![Static Badge](https://img.shields.io/badge/Easy-:badgeContent?color=green) 228. Summary Ranges (Easy)
+- [X] ![Static Badge](https://img.shields.io/badge/Medium-:badgeContent?color=gold)128. Longest Consecutive Sequence (Medium)
+- [X] ![Static Badge](https://img.shields.io/badge/Easy-:badgeContent?color=green) 228. Summary Ranges (Easy)
