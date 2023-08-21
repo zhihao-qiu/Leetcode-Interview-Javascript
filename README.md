@@ -63,7 +63,7 @@ Interview Questions 150 on Leetcode
 - [X] ![Static Badge](https://img.shields.io/badge/Easy-:badgeContent?color=green) 228. Summary Ranges
 ### August 20, 2023
 - [X] ![Static Badge](https://img.shields.io/badge/Medium-:badgeContent?color=gold) 56. Merge Intervals
-- [ ] ![Static Badge](https://img.shields.io/badge/Medium-:badgeContent?color=gold) 57. Insert Interval
+- [X] ![Static Badge](https://img.shields.io/badge/Medium-:badgeContent?color=gold) 57. Insert Interval
 - [ ] ![Static Badge](https://img.shields.io/badge/Medium-:badgeContent?color=gold) 452. Minimum Number of Arrows to Burst Balloons
 - [ ] ![Static Badge](https://img.shields.io/badge/Easy-:badgeContent?color=green) 20. Valid Parentheses
 - [ ] ![Static Badge](https://img.shields.io/badge/Medium-:badgeContent?color=gold) 71. Simplify Path
