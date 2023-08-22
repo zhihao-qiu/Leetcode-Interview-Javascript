@@ -70,6 +70,7 @@ Interview Questions 150 on Leetcode
 ### August 21, 2023
 - [X] ![Static Badge](https://img.shields.io/badge/Medium-:badgeContent?color=gold) 155. Min Stack
 - [X] ![Static Badge](https://img.shields.io/badge/Medium-:badgeContent?color=gold) 150. Evaluate Reverse Polish Notation
+### August 22, 2023
 - [ ] ![Static Badge](https://img.shields.io/badge/Hard-:badgeContent?color=red) 224. Basic Calculator
 - [ ] ![Static Badge](https://img.shields.io/badge/Easy-:badgeContent?color=green) 141. Linked List Cycle
 - [ ] ![Static Badge](https://img.shields.io/badge/Medium-:badgeContent?color=gold) 2. Add Two Numbers
