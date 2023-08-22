@@ -2,10 +2,9 @@ var evalRPN = function(tokens) {
   let result = null;
   let i = 0;
   const unchecked = [];
-  const operator = { '+': '+', '-': '-', '*': '*', '/': '/' };
 
   while (i < tokens.length) {
-    if (tokens[i] in operator) {
+    if (tokens[i]=='+' || tokens[i]=='-' || tokens[i]=='*' || tokens[i]=='/') {
       const num2 = unchecked.pop();
       const num1 = unchecked.pop();
       switch (tokens[i]) {
