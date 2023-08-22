@@ -64,10 +64,11 @@ Interview Questions 150 on Leetcode
 ### August 20, 2023
 - [X] ![Static Badge](https://img.shields.io/badge/Medium-:badgeContent?color=gold) 56. Merge Intervals
 - [X] ![Static Badge](https://img.shields.io/badge/Medium-:badgeContent?color=gold) 57. Insert Interval
-- [ ] ![Static Badge](https://img.shields.io/badge/Medium-:badgeContent?color=gold) 452. Minimum Number of Arrows to Burst Balloons
-- [ ] ![Static Badge](https://img.shields.io/badge/Easy-:badgeContent?color=green) 20. Valid Parentheses
-- [ ] ![Static Badge](https://img.shields.io/badge/Medium-:badgeContent?color=gold) 71. Simplify Path
-- [ ] ![Static Badge](https://img.shields.io/badge/Medium-:badgeContent?color=gold) 155. Min Stack
+- [X] ![Static Badge](https://img.shields.io/badge/Medium-:badgeContent?color=gold) 452. Minimum Number of Arrows to Burst Balloons
+- [X] ![Static Badge](https://img.shields.io/badge/Easy-:badgeContent?color=green) 20. Valid Parentheses
+- [X] ![Static Badge](https://img.shields.io/badge/Medium-:badgeContent?color=gold) 71. Simplify Path
+### August 21, 2023
+- [X] ![Static Badge](https://img.shields.io/badge/Medium-:badgeContent?color=gold) 155. Min Stack
 - [ ] ![Static Badge](https://img.shields.io/badge/Medium-:badgeContent?color=gold) 150. Evaluate Reverse Polish Notation
 - [ ] ![Static Badge](https://img.shields.io/badge/Hard-:badgeContent?color=red) 224. Basic Calculator
 - [ ] ![Static Badge](https://img.shields.io/badge/Easy-:badgeContent?color=green) 141. Linked List Cycle
