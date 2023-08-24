@@ -75,7 +75,7 @@ Interview Questions 150 on Leetcode
 - [X] ![Static Badge](https://img.shields.io/badge/Easy-:badgeContent?color=green) 141. Linked List Cycle
 ### August 23, 2023
 - [X] ![Static Badge](https://img.shields.io/badge/Medium-:badgeContent?color=gold) 2. Add Two Numbers
-- [ ] ![Static Badge](https://img.shields.io/badge/Easy-:badgeContent?color=green) 21. Merge Two Sorted Lists
+- [X] ![Static Badge](https://img.shields.io/badge/Easy-:badgeContent?color=green) 21. Merge Two Sorted Lists
 - [ ] ![Static Badge](https://img.shields.io/badge/Medium-:badgeContent?color=gold) 138. Copy List with Random Pointer
 - [ ] ![Static Badge](https://img.shields.io/badge/Medium-:badgeContent?color=gold) 92. Reverse Linked List II
 - [ ] ![Static Badge](https://img.shields.io/badge/Hard-:badgeContent?color=red) 25. Reverse Nodes in k-Group
