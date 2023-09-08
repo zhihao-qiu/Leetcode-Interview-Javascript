@@ -76,11 +76,13 @@ Interview Questions 150 on Leetcode
 ### August 23, 2023
 - [X] ![Static Badge](https://img.shields.io/badge/Medium-:badgeContent?color=gold) 2. Add Two Numbers
 - [X] ![Static Badge](https://img.shields.io/badge/Easy-:badgeContent?color=green) 21. Merge Two Sorted Lists
-- [ ] ![Static Badge](https://img.shields.io/badge/Medium-:badgeContent?color=gold) 138. Copy List with Random Pointer
-- [ ] ![Static Badge](https://img.shields.io/badge/Medium-:badgeContent?color=gold) 92. Reverse Linked List II
-- [ ] ![Static Badge](https://img.shields.io/badge/Hard-:badgeContent?color=red) 25. Reverse Nodes in k-Group
-- [ ] ![Static Badge](https://img.shields.io/badge/Medium-:badgeContent?color=gold) 19. Remove Nth Node From End of List
-- [ ] ![Static Badge](https://img.shields.io/badge/Medium-:badgeContent?color=gold) 82. Remove Duplicates from Sorted List II
+### August 24, 2023
+- [X] ![Static Badge](https://img.shields.io/badge/Medium-:badgeContent?color=gold) 138. Copy List with Random Pointer
+- [X] ![Static Badge](https://img.shields.io/badge/Medium-:badgeContent?color=gold) 92. Reverse Linked List II
+- [X] ![Static Badge](https://img.shields.io/badge/Hard-:badgeContent?color=red) 25. Reverse Nodes in k-Group
+- [X] ![Static Badge](https://img.shields.io/badge/Medium-:badgeContent?color=gold) 19. Remove Nth Node From End of List
+### Sept 7, 2023
+- [X] ![Static Badge](https://img.shields.io/badge/Medium-:badgeContent?color=gold) 82. Remove Duplicates from Sorted List II
 - [ ] ![Static Badge](https://img.shields.io/badge/Medium-:badgeContent?color=gold) 61. Rotate List
 - [ ] ![Static Badge](https://img.shields.io/badge/Medium-:badgeContent?color=gold) 86. Partition List
 - [ ] ![Static Badge](https://img.shields.io/badge/Medium-:badgeContent?color=gold) 146. LRU Cache
