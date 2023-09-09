@@ -85,9 +85,9 @@ Interview Questions 150 on Leetcode
 - [X] ![Static Badge](https://img.shields.io/badge/Medium-:badgeContent?color=gold) 82. Remove Duplicates from Sorted List II
 ### Sept 8, 2023
 - [X] ![Static Badge](https://img.shields.io/badge/Medium-:badgeContent?color=gold) 61. Rotate List
-- [ ] ![Static Badge](https://img.shields.io/badge/Medium-:badgeContent?color=gold) 86. Partition List
-- [ ] ![Static Badge](https://img.shields.io/badge/Medium-:badgeContent?color=gold) 146. LRU Cache
-- [ ] ![Static Badge](https://img.shields.io/badge/Easy-:badgeContent?color=green) 104. Maximum Depth of Binary Tree
+- [X] ![Static Badge](https://img.shields.io/badge/Medium-:badgeContent?color=gold) 86. Partition List
+- [X] ![Static Badge](https://img.shields.io/badge/Medium-:badgeContent?color=gold) 146. LRU Cache
+- [X] ![Static Badge](https://img.shields.io/badge/Easy-:badgeContent?color=green) 104. Maximum Depth of Binary Tree
 - [ ] ![Static Badge](https://img.shields.io/badge/Easy-:badgeContent?color=green) 100. Same Tree
 - [ ] ![Static Badge](https://img.shields.io/badge/Easy-:badgeContent?color=green) 226. Invert Binary Tree
 - [ ] ![Static Badge](https://img.shields.io/badge/Easy-:badgeContent?color=green) 101. Symmetric Tree
