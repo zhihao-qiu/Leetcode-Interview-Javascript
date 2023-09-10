@@ -91,7 +91,7 @@ Interview Questions 150 on Leetcode
 ### Sept 9, 2023
 - [X] ![Static Badge](https://img.shields.io/badge/Easy-:badgeContent?color=green) 100. Same Tree
 - [X] ![Static Badge](https://img.shields.io/badge/Easy-:badgeContent?color=green) 226. Invert Binary Tree
-- [ ] ![Static Badge](https://img.shields.io/badge/Easy-:badgeContent?color=green) 101. Symmetric Tree
+- [X] ![Static Badge](https://img.shields.io/badge/Easy-:badgeContent?color=green) 101. Symmetric Tree
 - [ ] ![Static Badge](https://img.shields.io/badge/Medium-:badgeContent?color=gold) 105. Construct Binary Tree from Preorder and Inorder Traversal
 - [ ] ![Static Badge](https://img.shields.io/badge/Medium-:badgeContent?color=gold) 106. Construct Binary Tree from Inorder and Postorder Traversal
 - [ ] ![Static Badge](https://img.shields.io/badge/Medium-:badgeContent?color=gold) 117. Populating Next Right Pointers in Each Node II
